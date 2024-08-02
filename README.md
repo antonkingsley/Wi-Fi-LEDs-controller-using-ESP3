@@ -4,7 +4,7 @@
 #### Wi-Fi 20 LEDs controller using ESP32 IOT application This project demonstrates how to connect an ESP32 microcontroller to Wi-Fi and control 20 LEDs through web browser in Wi-Fi network.
 
 ## Table of Contents 
-Installation 
+*Installation*
 *Usage*
 
 ## Installation
