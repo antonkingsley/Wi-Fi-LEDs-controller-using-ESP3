@@ -5,7 +5,7 @@
 
 ## Table of Contents 
 Installation 
-Usage
+*Usage*
 
 ## Installation
 
